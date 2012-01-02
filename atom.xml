@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[omgitsads]]></title>
-  <link href="http://omgitsads.github.com/atom.xml" rel="self"/>
-  <link href="http://omgitsads.github.com/"/>
-  <updated>2012-01-02T12:45:50+00:00</updated>
-  <id>http://omgitsads.github.com/</id>
+  <link href="http://omgitsads.com/atom.xml" rel="self"/>
+  <link href="http://omgitsads.com/"/>
+  <updated>2012-01-02T12:42:13+00:00</updated>
+  <id>http://omgitsads.com/</id>
   <author>
     <name><![CDATA[Adam Holt]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test Post]]></title>
-    <link href="http://omgitsads.github.com/2012/01/01/test-post/"/>
+    <link href="http://omgitsads.com/2012/01/01/test-post/"/>
     <updated>2012-01-01T21:01:00+00:00</updated>
-    <id>http://omgitsads.github.com/2012/01/01/test-post</id>
+    <id>http://omgitsads.com/2012/01/01/test-post</id>
     <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas fermentum mollis tellus nec gravida. Nulla ultrices libero eu massa porta sollicitudin. In ut nisi ac nisi luctus fringilla. Integer posuere turpis nec mauris vehicula egestas. Praesent hendrerit, massa consequat hendrerit iaculis, risus justo bibendum odio, sed euismod velit purus at lorem. Phasellus fermentum molestie leo, a posuere nunc facilisis quis. Phasellus fermentum porta rhoncus. Duis sed quam id risus congue sollicitudin. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam ultrices lacus in lacus pretium quis convallis ligula euismod. Sed fringilla nunc quis magna vulputate sollicitudin. Nullam ornare dictum aliquet. Integer sed nisi nibh, id placerat enim. Nunc nibh nibh, sollicitudin a molestie at, luctus non neque.</p>
 
 <p>Nam magna tellus, faucibus et eleifend et, porttitor ut purus. Sed purus velit, tristique dictum suscipit ut, consequat a nunc. Curabitur ac dolor eu felis sollicitudin iaculis. Nulla facilisi. Donec ut velit arcu. Donec ut placerat nisl. Maecenas at velit magna. Ut nec magna ac diam commodo commodo at nec velit. Aliquam erat volutpat. Duis pharetra neque est.</p>
