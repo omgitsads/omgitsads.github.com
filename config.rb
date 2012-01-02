@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/omgitsads/"
+http_images_path = "/omgitsads/images"
+http_fonts_path = "/omgitsads/fonts"
+css_dir = "public/omgitsads/stylesheets"
 
 # Local development paths
 sass_dir = "sass"

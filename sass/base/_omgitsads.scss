@@ -1,0 +1,20 @@
+$noise-bg: image-url('noise.png') top left !default;
+$img-border: inline-image('dotted-border.png');
+
+// Main Link Colors
+$link-color: lighten(#ececec, 3) !default;
+$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25) !default;
+$link-color-visited: adjust-color($link-color, $hue: 80, $lightness: -4) !default;
+$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+
+$header-bg: #333 !default;
+$header-border: lighten($header-bg, 15) !default;
+$title-color: #f2f2f2 !default;
+$subtitle-color: #aaa !default;
+
+$text-color: #222 !default;
+$text-color-light: #aaa !default;
+$type-border: #ddd !default;
+
+$twitter-status-link: lighten(lighten(#f2f2f2, 20), 15) !default;
+

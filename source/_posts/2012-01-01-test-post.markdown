@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Test Post"
+date: 2012-01-01 21:01
+comments: true
+categories: 
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas fermentum mollis tellus nec gravida. Nulla ultrices libero eu massa porta sollicitudin. In ut nisi ac nisi luctus fringilla. Integer posuere turpis nec mauris vehicula egestas. Praesent hendrerit, massa consequat hendrerit iaculis, risus justo bibendum odio, sed euismod velit purus at lorem. Phasellus fermentum molestie leo, a posuere nunc facilisis quis. Phasellus fermentum porta rhoncus. Duis sed quam id risus congue sollicitudin. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam ultrices lacus in lacus pretium quis convallis ligula euismod. Sed fringilla nunc quis magna vulputate sollicitudin. Nullam ornare dictum aliquet. Integer sed nisi nibh, id placerat enim. Nunc nibh nibh, sollicitudin a molestie at, luctus non neque.
+
+Nam magna tellus, faucibus et eleifend et, porttitor ut purus. Sed purus velit, tristique dictum suscipit ut, consequat a nunc. Curabitur ac dolor eu felis sollicitudin iaculis. Nulla facilisi. Donec ut velit arcu. Donec ut placerat nisl. Maecenas at velit magna. Ut nec magna ac diam commodo commodo at nec velit. Aliquam erat volutpat. Duis pharetra neque est.
+
+Proin dictum luctus ligula at gravida. Ut purus lectus, hendrerit ut ultrices nec, semper sit amet eros. Etiam elit purus, rutrum ut bibendum eu, posuere ut leo. Phasellus nunc lorem, egestas ac eleifend non, pretium sed metus. Morbi euismod, massa non porta rutrum, purus risus facilisis nunc, sit amet pulvinar lacus massa vitae sapien. Phasellus facilisis dolor vitae metus pharetra non suscipit arcu hendrerit. Aenean ac sem sem, non iaculis lectus. Curabitur nunc purus, ultrices eu tincidunt tempus, accumsan in quam. Nulla congue ante eros, ac sagittis elit. Duis at bibendum nibh. Donec ut dolor at odio molestie auctor. Duis vel nisi non metus lacinia volutpat eu quis sapien. Pellentesque venenatis quam et elit commodo hendrerit.
+
+Ut quis nisl at est consequat tempor. Donec ipsum odio, iaculis et auctor a, feugiat vitae ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent ultricies, libero et dapibus dapibus, libero mauris congue lorem, vitae bibendum quam nunc sit amet sapien. Maecenas cursus varius leo luctus bibendum. Aliquam laoreet neque vel odio lobortis tristique accumsan enim dignissim. Fusce vitae eros eros, at porta diam. Donec vel enim non neque porta sagittis in a velit. Vestibulum neque mauris, egestas in ornare nec, bibendum sit amet arcu.
+
+Aenean molestie blandit luctus. Sed rutrum interdum gravida. Duis laoreet tristique ipsum sit amet molestie. Phasellus ut odio et augue semper molestie eu in nulla. Nullam pellentesque libero id quam hendrerit consectetur. Maecenas interdum commodo felis non aliquam. Pellentesque posuere ante vel diam sollicitudin suscipit. Aliquam vel elit ante, vitae porta quam. Nunc ullamcorper turpis eu augue semper tempor. Nulla ac elit mi. Nullam dui massa, luctus eu malesuada vel, pulvinar in odio. Aliquam sit amet molestie metus. Maecenas rhoncus scelerisque facilisis.
+
+Donec vitae lacus lacus. Nunc et neque tellus, in congue lorem. Vestibulum eget erat tellus. Sed sollicitudin eros eget nisi porttitor ac blandit diam scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed elit turpis, aliquet at suscipit vitae, facilisis et libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque ut velit sit amet erat luctus condimentum. Vestibulum massa turpis, aliquam ut dictum sit amet, consectetur sed purus. Fusce dignissim risus id nibh fringilla commodo.
+
+``` ruby Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+class Fixnum
+  def prime?
+    ('1' * self) !~ /^1?$|^(11+?)\1+$/
+  end
+end
+```
+
+Fusce mauris odio, varius ac mollis lobortis, convallis a felis. Proin sollicitudin nibh id orci vulputate laoreet. Sed ligula sapien, laoreet pulvinar vulputate at, sagittis ut tellus. Nunc nec eros ut ipsum varius ultricies at a libero. Etiam vitae nisl justo. Sed a ornare velit. Sed ultricies mi ut sapien euismod congue. Maecenas scelerisque ligula ut justo auctor tempor.
+
+Donec scelerisque nulla id nunc rutrum elementum. Phasellus suscipit ultrices metus vel gravida. Maecenas gravida lacinia nibh vitae facilisis. Ut suscipit elit sit amet nibh commodo condimentum. Ut ante ipsum, tempor nec tincidunt eget, porta in dolor. Integer id hendrerit risus. Nunc mollis nisi eget elit venenatis sit amet molestie lorem rutrum. Nulla facilisi. Integer ut massa sem. Maecenas euismod justo a massa volutpat nec ullamcorper lorem commodo. Morbi a mi urna. Aliquam tincidunt placerat mauris a auctor. Sed commodo laoreet ipsum a dapibus. Suspendisse ante tellus, posuere quis pretium ut, rutrum malesuada risus. Proin commodo suscipit lectus id pellentesque. Nam leo neque, venenatis ut suscipit vitae, facilisis in metus.
+
+Ut a mollis tellus. Nam vestibulum lacus at leo porttitor vulputate. Phasellus fringilla posuere euismod. Cras tincidunt dolor non mauris cursus a aliquet nulla sagittis. Maecenas accumsan bibendum risus non sodales. Proin lacinia nisi quis elit pulvinar sodales sed eu libero. Morbi lobortis dui in tortor porta dictum. Quisque tincidunt posuere imperdiet. Etiam vitae metus nibh. Phasellus ligula sem, imperdiet ac ornare nec, commodo ac magna. Sed ullamcorper lectus nulla. Cras dapibus eros in massa auctor suscipit.
+
+Vivamus tellus neque, rhoncus sit amet placerat iaculis, tincidunt non velit. Vestibulum interdum sapien eget urna suscipit a dapibus nunc volutpat. Nunc laoreet purus vel lacus aliquam ac eleifend eros sodales. Aliquam ac nulla lectus, viverra gravida purus. Aenean varius pretium commodo. Donec vitae est a nisl lacinia bibendum. Donec interdum porttitor nulla sed placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac massa nisi. Duis vehicula molestie nisl, vitae fringilla mi pulvinar a.
+
+Suspendisse quis nisi sem, in semper elit. Pellentesque vel vestibulum mi. Quisque feugiat posuere lectus, vel rutrum dui posuere ac. Etiam eleifend vehicula nunc, id consequat augue scelerisque lobortis. Ut euismod scelerisque justo, et tempus purus ultrices vitae. Quisque ullamcorper rhoncus tristique. Donec leo lacus, semper et bibendum a, porttitor at augue. Maecenas condimentum vestibulum arcu quis mollis. Nam luctus cursus diam lobortis molestie.
+
+In ornare hendrerit nibh a tempor. Fusce ac tempor leo. Nullam nec est metus, at aliquam purus. Aenean magna nisl, aliquam non venenatis a, pretium vel tortor. In quis quam odio, a consequat risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In cursus gravida diam ut pretium. Integer sed dictum enim. Ut porttitor rutrum est, quis consectetur nulla semper dictum.
+
+{% gist 1367073 %}
+
+Maecenas tempor ultrices augue in tempus. In hac habitasse platea dictumst. Praesent a turpis magna, quis ullamcorper purus. Sed nec sapien a justo elementum gravida. Integer nisi quam, sagittis accumsan scelerisque nec, faucibus non eros. Aenean interdum luctus lacus eu aliquam. Proin iaculis vehicula velit tempus suscipit. Proin eros lorem, rutrum eget pellentesque a, pharetra et diam.
+
+{% blockquote Lorem Ipsum %}
+In eget enim lectus. Sed pellentesque sem vitae diam vulputate non mollis nisi ultrices. Suspendisse potenti. Praesent ultrices tincidunt libero, sit amet aliquam nibh accumsan sit amet. Mauris ut mauris ac massa porta convallis non quis turpis. Pellentesque adipiscing sodales porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam leo elit, sagittis non ultrices quis, blandit id erat. Praesent elementum turpis nec risus aliquet euismod. Pellentesque feugiat suscipit leo, nec volutpat dui feugiat sit amet.
+{% endblockquote %}
+
+Nulla accumsan enim at dolor cursus hendrerit. Duis tristique viverra mi eget vestibulum. Suspendisse vitae rutrum tortor. Morbi tellus neque, commodo placerat ullamcorper vel, tristique nec risus. Vivamus erat sapien, varius at placerat dictum, ultricies in ante. Nulla vestibulum elementum tortor, eu consectetur magna vestibulum a. Ut auctor leo ac velit posuere mollis. Phasellus quis quam id orci ornare commodo.
