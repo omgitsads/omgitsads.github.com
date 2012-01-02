@@ -1,15 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://omgitsads.github.com/2012/01/01/test-post/</loc>
-        <lastmod>2012-01-02T13:19:36+00:00</lastmod>
+        <loc>http://omgitsads.com/2012/01/01/test-post/</loc>
+        <lastmod>2012-01-02T21:18:34+00:00</lastmod>
     </url>
     <url>
-        <loc>http://omgitsads.github.com/blog/archives/</loc>
-        <lastmod>2012-01-02T13:19:36+00:00</lastmod>
+        <loc>http://omgitsads.com/2012/01/02/and-one-more/</loc>
+        <lastmod>2012-01-02T21:18:34+00:00</lastmod>
     </url>
     <url>
-        <loc>http://omgitsads.github.com/</loc>
-        <lastmod>2012-01-02T13:19:36+00:00</lastmod>
+        <loc>http://omgitsads.com/2012/01/02/another-post/</loc>
+        <lastmod>2012-01-02T21:18:58+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://omgitsads.com/blog/archives/</loc>
+        <lastmod>2012-01-02T21:18:58+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://omgitsads.com/</loc>
+        <lastmod>2012-01-02T21:19:39+00:00</lastmod>
     </url>
 </urlset>
