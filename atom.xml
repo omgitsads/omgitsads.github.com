@@ -4,7 +4,7 @@
   <title><![CDATA[omgitsads]]></title>
   <link href="http://omgitsads.github.com/atom.xml" rel="self"/>
   <link href="http://omgitsads.github.com/"/>
-  <updated>2012-01-02T13:08:16+00:00</updated>
+  <updated>2012-01-02T13:19:49+00:00</updated>
   <id>http://omgitsads.github.com/</id>
   <author>
     <name><![CDATA[Adam Holt]]></name>
@@ -52,8 +52,6 @@
 <p>Vivamus tellus neque, rhoncus sit amet placerat iaculis, tincidunt non velit. Vestibulum interdum sapien eget urna suscipit a dapibus nunc volutpat. Nunc laoreet purus vel lacus aliquam ac eleifend eros sodales. Aliquam ac nulla lectus, viverra gravida purus. Aenean varius pretium commodo. Donec vitae est a nisl lacinia bibendum. Donec interdum porttitor nulla sed placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac massa nisi. Duis vehicula molestie nisl, vitae fringilla mi pulvinar a.</p>
 
 <p>Suspendisse quis nisi sem, in semper elit. Pellentesque vel vestibulum mi. Quisque feugiat posuere lectus, vel rutrum dui posuere ac. Etiam eleifend vehicula nunc, id consequat augue scelerisque lobortis. Ut euismod scelerisque justo, et tempus purus ultrices vitae. Quisque ullamcorper rhoncus tristique. Donec leo lacus, semper et bibendum a, porttitor at augue. Maecenas condimentum vestibulum arcu quis mollis. Nam luctus cursus diam lobortis molestie.</p>
-
-<p>In ornare hendrerit nibh a tempor. Fusce ac tempor leo. Nullam nec est metus, at aliquam purus. Aenean magna nisl, aliquam non venenatis a, pretium vel tortor. In quis quam odio, a consequat risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In cursus gravida diam ut pretium. Integer sed dictum enim. Ut porttitor rutrum est, quis consectetur nulla semper dictum.</p>
 
 <div><script src='https://gist.github.com/1367073.js?file='></script>
 <noscript><pre><code>ActionView::Template::Error (can't dump anonymous class Class):
