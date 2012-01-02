@@ -49,7 +49,7 @@
       
   <header>
     
-      <h1 class="entry-title"><a href="/2012/01/02/another-post/">Another Post</a></h1>
+      <h1 class="entry-title"><a href="/2012/01/01/test-post/">Test Post</a></h1>
     
     
       <p class="meta">
@@ -70,6 +70,44 @@
 <p>Aenean molestie blandit luctus. Sed rutrum interdum gravida. Duis laoreet tristique ipsum sit amet molestie. Phasellus ut odio et augue semper molestie eu in nulla. Nullam pellentesque libero id quam hendrerit consectetur. Maecenas interdum commodo felis non aliquam. Pellentesque posuere ante vel diam sollicitudin suscipit. Aliquam vel elit ante, vitae porta quam. Nunc ullamcorper turpis eu augue semper tempor. Nulla ac elit mi. Nullam dui massa, luctus eu malesuada vel, pulvinar in odio. Aliquam sit amet molestie metus. Maecenas rhoncus scelerisque facilisis.</p>
 
 <p>Donec vitae lacus lacus. Nunc et neque tellus, in congue lorem. Vestibulum eget erat tellus. Sed sollicitudin eros eget nisi porttitor ac blandit diam scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed elit turpis, aliquet at suscipit vitae, facilisis et libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque ut velit sit amet erat luctus condimentum. Vestibulum massa turpis, aliquam ut dictum sit amet, consectetur sed purus. Fusce dignissim risus id nibh fringilla commodo.</p>
+
+<figure class='code'><figcaption><span>Discover if a number is prime </span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Fusce mauris odio, varius ac mollis lobortis, convallis a felis. Proin sollicitudin nibh id orci vulputate laoreet. Sed ligula sapien, laoreet pulvinar vulputate at, sagittis ut tellus. Nunc nec eros ut ipsum varius ultricies at a libero. Etiam vitae nisl justo. Sed a ornare velit. Sed ultricies mi ut sapien euismod congue. Maecenas scelerisque ligula ut justo auctor tempor.</p>
+
+<p>Donec scelerisque nulla id nunc rutrum elementum. Phasellus suscipit ultrices metus vel gravida. Maecenas gravida lacinia nibh vitae facilisis. Ut suscipit elit sit amet nibh commodo condimentum. Ut ante ipsum, tempor nec tincidunt eget, porta in dolor. Integer id hendrerit risus. Nunc mollis nisi eget elit venenatis sit amet molestie lorem rutrum. Nulla facilisi. Integer ut massa sem. Maecenas euismod justo a massa volutpat nec ullamcorper lorem commodo. Morbi a mi urna. Aliquam tincidunt placerat mauris a auctor. Sed commodo laoreet ipsum a dapibus. Suspendisse ante tellus, posuere quis pretium ut, rutrum malesuada risus. Proin commodo suscipit lectus id pellentesque. Nam leo neque, venenatis ut suscipit vitae, facilisis in metus.</p>
+
+<p>Ut a mollis tellus. Nam vestibulum lacus at leo porttitor vulputate. Phasellus fringilla posuere euismod. Cras tincidunt dolor non mauris cursus a aliquet nulla sagittis. Maecenas accumsan bibendum risus non sodales. Proin lacinia nisi quis elit pulvinar sodales sed eu libero. Morbi lobortis dui in tortor porta dictum. Quisque tincidunt posuere imperdiet. Etiam vitae metus nibh. Phasellus ligula sem, imperdiet ac ornare nec, commodo ac magna. Sed ullamcorper lectus nulla. Cras dapibus eros in massa auctor suscipit.</p>
+
+<p>Vivamus tellus neque, rhoncus sit amet placerat iaculis, tincidunt non velit. Vestibulum interdum sapien eget urna suscipit a dapibus nunc volutpat. Nunc laoreet purus vel lacus aliquam ac eleifend eros sodales. Aliquam ac nulla lectus, viverra gravida purus. Aenean varius pretium commodo. Donec vitae est a nisl lacinia bibendum. Donec interdum porttitor nulla sed placerat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac massa nisi. Duis vehicula molestie nisl, vitae fringilla mi pulvinar a.</p>
+
+<p>Suspendisse quis nisi sem, in semper elit. Pellentesque vel vestibulum mi. Quisque feugiat posuere lectus, vel rutrum dui posuere ac. Etiam eleifend vehicula nunc, id consequat augue scelerisque lobortis. Ut euismod scelerisque justo, et tempus purus ultrices vitae. Quisque ullamcorper rhoncus tristique. Donec leo lacus, semper et bibendum a, porttitor at augue. Maecenas condimentum vestibulum arcu quis mollis. Nam luctus cursus diam lobortis molestie.</p>
+
+<div><script src='https://gist.github.com/1367073.js?file='></script>
+<noscript><pre><code>ActionView::Template::Error (can't dump anonymous class Class):
+    1: &lt;h3&gt;Rack request env&lt;/h3&gt;
+    2: &lt;h3&gt;Rails request object&lt;/h3&gt;
+    3: &lt;pre&gt;&lt;%= h(@request_obj.to_yaml).gsub(&quot;  &quot;, &quot;&amp;nbsp;&quot;).html_safe %&gt;&lt;/pre&gt;
+  app/views/headers/index.html.erb:3:in `_app_views_headers_index_html_erb___1006215901_77896010__270781548'</code></pre></noscript></div>
+
+
+<p>Maecenas tempor ultrices augue in tempus. In hac habitasse platea dictumst. Praesent a turpis magna, quis ullamcorper purus. Sed nec sapien a justo elementum gravida. Integer nisi quam, sagittis accumsan scelerisque nec, faucibus non eros. Aenean interdum luctus lacus eu aliquam. Proin iaculis vehicula velit tempus suscipit. Proin eros lorem, rutrum eget pellentesque a, pharetra et diam.</p>
+
+<blockquote><p>In eget enim lectus. Sed pellentesque sem vitae diam vulputate non mollis nisi ultrices. Suspendisse potenti. Praesent ultrices tincidunt libero, sit amet aliquam nibh accumsan sit amet. Mauris ut mauris ac massa porta convallis non quis turpis. Pellentesque adipiscing sodales porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam leo elit, sagittis non ultrices quis, blandit id erat. Praesent elementum turpis nec risus aliquet euismod. Pellentesque feugiat suscipit leo, nec volutpat dui feugiat sit amet.</p></blockquote>
+
+
+<p>Nulla accumsan enim at dolor cursus hendrerit. Duis tristique viverra mi eget vestibulum. Suspendisse vitae rutrum tortor. Morbi tellus neque, commodo placerat ullamcorper vel, tristique nec risus. Vivamus erat sapien, varius at placerat dictum, ultricies in ante. Nulla vestibulum elementum tortor, eu consectetur magna vestibulum a. Ut auctor leo ac velit posuere mollis. Phasellus quis quam id orci ornare commodo.</p>
 </div>
   
   
@@ -79,8 +117,6 @@
   
 
   <div class="pagination">
-    
-      <a class="prev" href="/blog/page/2/">&larr; Older</a>
     
     
   </div>
