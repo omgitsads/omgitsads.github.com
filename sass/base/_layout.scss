@@ -103,6 +103,30 @@ body {
   }
 }
 
+a#logo {
+  width: 100px;
+  height: 100px;
+  background-image: image-url("logo-iphone.png");
+  display: block;
+
+  span {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  a#logo {
+    width: 540px;
+    height: 100px;
+    background-image: image-url("logo.png");
+    display: block;
+
+    span {
+      display: none;
+    }
+  }
+}
+
 @if $indented-lists == false {
   @media only screen and (min-width: 768px) {
     ul, ol { margin-left: 0; }
